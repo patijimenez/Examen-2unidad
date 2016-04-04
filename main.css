@@ -1,0 +1,19 @@
+.inline {
+  display: inline-block; }
+
+.width-100 {
+  width: 100%; }
+
+ul#minupol {
+  display: inline-flex; }
+
+#minupol li {
+  margin-left: 29px; }
+
+p.text-center {
+  font-size: -webkit-xxx-large; }
+
+img.img-responsive {
+  width: 100%; }
+
+/*# sourceMappingURL=main.css.map */
